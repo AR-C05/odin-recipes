@@ -7,4 +7,4 @@ Task: build a basic recipe site
 Have:  
 - index page
 - index page links to recipe pages
-- using various tags  
+- using various tags (img, anchor, heading, list)  
