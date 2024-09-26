@@ -1,0 +1,20 @@
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+h2 {
+    background-color: goldenrod;
+    color: darkslategrey;
+}
+
+li {
+    text-shadow: 1px 1px 2px rgb(7, 43, 56);
+}
